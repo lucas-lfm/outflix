@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+
+
+
+
+
+
+
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-0 .mbr-navbar__section {
+  background: #efefef;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #000000;
+}
+#ext_menu-0 .mbr-navbar__items a {
+  font-size: 18px;
+  font-family: 'Droid Serif', serif;
+}
+#ext_menu-0 .mbr-brand__name a {
+  font-family: 'Lora', serif;
+  font-size: 25px;
+}
+#msg-box3-1 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1 .mbr-article {
+  font-family: 'Lora', serif;
+  font-size: 24px;
+}
+#form1-0 .mbr-header__text {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box3-0 .mbr-header .mbr-header__text {
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 30px;
+}
+#msg-box3-0 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-0 .mbr-article {
+  font-size: 24px;
+  font-family: 'Lora', serif;
+}
+#content4-0 .mbr-section__col .mbr-header__text {
+  font-size: 24px;
+  font-family: 'Lora', serif;
+}
+#content4-0 P {
+  font-size: 18px;
+  font-family: 'Slabo 27px', serif;
+}
+#contacts3-0 I {
+  color: #ffffff;
+}
+#contacts3-0 STRONG {
+  color: #ffffff;
+}
